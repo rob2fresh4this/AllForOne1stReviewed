@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AllForOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18354db4d979b9b4fd5c036e7b9654886899508e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+814096f7e2d8e27e6739aeed63c08d884e881442")]
 [assembly: System.Reflection.AssemblyProductAttribute("AllForOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AllForOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
