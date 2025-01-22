@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "83GwKjJK0MI=",
+  "dgSpecHash": "M58Zrvjj1PE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\grijr\\VScode\\CodeStack 24-25\\Season 3 BackEnd\\1Copys\\AllForOne\\AllForOne.csproj",
+  "projectFilePath": "C:\\Users\\grijr\\VScode\\CodeStack 24-25\\Season 3 BackEnd\\AllForOne1stReviewed\\AllForOne.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grijr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\grijr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
