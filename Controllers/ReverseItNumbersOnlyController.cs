@@ -13,7 +13,7 @@ namespace AllForOne.Controllers
             _reverseItNumbersOnlyService = reverseItNumbersOnlyService;
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("AddReverseItNumbersOnly/{input1}")]
         public string AddReverseItNumbersOnly(string input1)
         {

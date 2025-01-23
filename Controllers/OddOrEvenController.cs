@@ -13,7 +13,7 @@ namespace AllForOne.Controllers
             _oddOrEvenService = oddOrEvenService;
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("AddOddOrEven/{number}")]
         public string AddOddOrEven(string number)
         {

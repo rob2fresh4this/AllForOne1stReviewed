@@ -14,7 +14,7 @@ namespace AllForOne.Controllers
             _sayHelloService = sayHelloService;
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("SayHelloTo")]
         public string SayHelloTo(string name)
         {

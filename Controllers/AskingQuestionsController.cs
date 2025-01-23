@@ -6,15 +6,15 @@ namespace AllForOne.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class AskingQuestionsControllers : ControllerBase
+    public class AskingQuestionsController : ControllerBase
     {
         private readonly AskingQuestionsServices _askingQuestionsServices;
-        public AskingQuestionsControllers(AskingQuestionsServices askingQuestionsServices)
+        public AskingQuestionsController(AskingQuestionsServices askingQuestionsServices)
         {
             _askingQuestionsServices = askingQuestionsServices;
         }
         
-        [HttpPost]
+        [HttpGet]
         [Route("SetReply/{yourName}/{whatTimeDidyouWakeUp}")]
         public string SetReply(string yourName, string whatTimeDidyouWakeUp)
         {

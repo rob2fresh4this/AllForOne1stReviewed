@@ -13,7 +13,7 @@ namespace AllForOne.Controllers
             _reverseItAlphanumericService = reverseItAlphanumericService;
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("AddReverseItAlphanumeric/{input}")]
         public string AddReverseItAlphanumeric(string input)
         {
